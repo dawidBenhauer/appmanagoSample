@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
         handleAppmanagoExtras(getIntent().getExtras());
 
-        amMonitor.syncEmail("dupa321@o2.pl");
+        amMonitor.syncEmail("SampleUser@o2.pl");
 
     }
 
