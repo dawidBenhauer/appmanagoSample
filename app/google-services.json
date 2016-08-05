@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "232822946858",
+    "project_id": "firebase-androidmanual"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232822946858:android:bcfde4dc398fbc36",
+        "android_client_info": {
+          "package_name": "com.example.dawid.androidmanual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7g1T9CujVTI9Kq1tCBSN57H6AVqqxyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

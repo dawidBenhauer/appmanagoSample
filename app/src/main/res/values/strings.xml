@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidManual</string>
+    <string name="appmanago_launch_time">30</string>
+    <string name="appmanago_sync_meantime">1440</string>
+    <string name="appmanago_endpoint">https://click.appmanago.com</string>
+    <string name="appmanago_vendor_id">CNS4X7M8P5744KYH</string>
+    <string name="appmanago_application_id">myapp</string>
+    <string name="appmanago_sender_id">232822946858</string>
+    <string name="appmanago_gps_sync_time">1</string>
+</resources>
